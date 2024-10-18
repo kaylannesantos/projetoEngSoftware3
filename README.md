@@ -19,7 +19,7 @@ Não há muitas plataformas focadas exclusivamente em desenhistas e ilustradores
 
 ### Funcionalidades (??):
 1. **Postagem de Desenhos**: Upload de desenhos com descrições e tags.
-2. **Interações Sociais**: Comentários, curtidas e sistema de seguidores.
+2. **Interações Sociais**: Comentários, votações e sistema de seguidores.
 3. **Exploração de Conteúdo**: Filtros para buscar desenhos por estilo, técnica ou popularidade.
 
 ## Possíveis Tecnologias a serem usadas(???)
