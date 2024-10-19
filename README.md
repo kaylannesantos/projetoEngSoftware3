@@ -1,12 +1,12 @@
 ### (nome do projeto??)
 
 ## Quem faz parte do projeto? 
-- Kaylanne
+- Kaylanne Mendes Dos Santos
 - Pricylia
 - Santiago
 
 ## Sobre o projeto
-A principal ideia do projeto é ser rede social focada em artistas de desenho e ilustração. A plataforma permite que usuários compartilhem seus trabalhos, sigam outros artistas e interajam com a comunidade por meio de curtidas e comentários.
+A principal ideia do projeto é ser uma rede social focada em artistas de desenho e ilustração. A plataforma permite que usuários compartilhem seus trabalhos, sigam outros artistas e interajam com a comunidade por meio de curtidas e comentários.
 
 ## Área Principal:
 Educação / Arte Digital / Redes Sociais
@@ -19,7 +19,7 @@ Não há muitas plataformas focadas exclusivamente em desenhistas e ilustradores
 
 ### Funcionalidades:
 1. **Postagem de Desenhos**: Upload de desenhos com descrições e tags.
-2. **Interações Sociais**: Comentários e interações entre os seguidores.
+2. **Interações Sociais**: Comentários, curtidas e interações entre os seguidores.
 3. **Exploração de Conteúdo**: Filtros para buscar desenhos por estilo, técnica ou popularidade.
 4. **Eventos e Votações**: A plataforma incluirá uma seção de **eventos**, onde os usuários poderão se inscrever em competições de arte ou desafios. Após o término dos eventos, a comunidade poderá votar nos melhores trabalhos, promovendo interações e reconhecimento de talentos.
 
