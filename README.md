@@ -1,9 +1,7 @@
-### (nome do projeto??)
-
 ## Quem faz parte do projeto? 
 - Kaylanne Mendes Dos Santos
-- Pricylia
-- Santiago
+- Pricylia de Oliveira
+- Vinicius Santiago Fernandes
 
 ## Sobre o projeto
 A principal ideia do projeto é ser uma rede social focada em artistas de desenho e ilustração. A plataforma permite que usuários compartilhem seus trabalhos, sigam outros artistas e interajam com a comunidade por meio de curtidas e comentários.
@@ -23,7 +21,7 @@ Não há muitas plataformas focadas exclusivamente em desenhistas e ilustradores
 3. **Exploração de Conteúdo**: Filtros para buscar desenhos por estilo, técnica ou popularidade.
 4. **Eventos e Votações**: A plataforma incluirá uma seção de **eventos**, onde os usuários poderão se inscrever em competições de arte ou desafios. Após o término dos eventos, a comunidade poderá votar nos melhores trabalhos, promovendo interações e reconhecimento de talentos.
 
-## Possíveis Tecnologias a serem usadas(???)
+## Possíveis Tecnologias a serem usadas
 - Frontend: React.js
 - Backend: Node.js com Express
 - Banco de Dados: PostgreSQL
