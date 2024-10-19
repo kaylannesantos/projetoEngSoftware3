@@ -7,7 +7,7 @@
 A principal ideia do projeto é ser uma rede social focada em artistas de desenho e ilustração. A plataforma permite que usuários compartilhem seus trabalhos, sigam outros artistas e interajam com a comunidade por meio de votações e comentários.
 
 ## Área Principal:
-Educação / Arte Digital / Redes Sociais
+Arte Digital / Redes Sociais
 
 ## Público alvo
 Criadores de conteúdo artístico, pessoas interessadas que acompanhem o conteúdo artistico.
